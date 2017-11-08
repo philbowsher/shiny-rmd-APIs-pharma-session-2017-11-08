@@ -11,7 +11,7 @@ c <- d$results[, "Item"]
 ui <- fluidPage(
     
     # App title ----
-    titlePanel("Explore datasets package"),
+    titlePanel("Explore datasets in a package"),
     
     sidebarLayout(
       

@@ -1,5 +1,5 @@
 library(ggplot2)
-library(Cairo)   # For nicer ggplot2 output when deployed on Linux
+# library(Cairo)   # For nicer ggplot2 output when deployed on Linux
 library(datasets)
 
 dataset <- ToothGrowth

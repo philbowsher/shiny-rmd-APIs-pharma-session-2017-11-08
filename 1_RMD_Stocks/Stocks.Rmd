@@ -18,7 +18,7 @@ close <- Cl(last(prices))
 open <- Op(last(prices))
 ```
 
-The stock closed `r ifelse(open>close,'up','down')` at `r close` dollars per share yesterday ... hey this Phil 3/21/2017 Have a great day!!!
+The stock closed `r ifelse(open>close,'up','down')` at `r close` dollars per share yesterday ... hey this Phil 11/8/2017 Have a great day!!!
 
 ## Price History
 

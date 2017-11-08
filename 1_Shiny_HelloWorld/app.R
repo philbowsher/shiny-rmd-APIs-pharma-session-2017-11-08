@@ -3,12 +3,6 @@ library(shiny)
 n <- 200
 
 ui <- bootstrapPage(
-  numericInput('n', "# of obs", n),
-  plotOutput('plot')
-
-)
-
-ui <- bootstrapPage(
   numericInput('n', 'Number of obs', n),
   plotOutput('plot')
 )

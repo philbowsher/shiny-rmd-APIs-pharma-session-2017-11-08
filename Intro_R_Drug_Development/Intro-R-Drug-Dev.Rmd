@@ -595,6 +595,7 @@ survival analysis in R](http://rpubs.com/alecri/258589)
 - Number 2: R Notebooks have great features
 - Number 1: R Notebooks make it easy to create and share reports
 - http://r4ds.had.co.nz/r-markdown-workflow.html
+- 3_RMD_Notebook_Tidyverse
 
 <div class="img-col">
 <a href="http://rmarkdown.rstudio.com/r_notebooks.html#saving_and_sharing">![notebook-demo](notebook-demo.png)</a>
@@ -685,6 +686,7 @@ https://beta.rstudioconnect.com/content/2671/Combining-Shiny-R-Markdown.html
  - blogdown::serve_site()
  - RStudio Connect Tip
  - [Example](https://beta.rstudioconnect.com/content/2972/)
+ - blogdown::install_hugo()
  
 ## Bookdown
 
