@@ -898,6 +898,7 @@ geom_point(mapping = aes(x = displ, y = hwy))
 - https://github.com/xtmgah/DDCV
 - https://arxiv.org/pdf/1404.0734.pdf
 - https://will-landau.com/2016/11/01/appPackage/
+- https://cran.r-project.org/web/packages/adepro/index.html
 
 ## Applications in Research - Modeling
 - https://www.ncbi.nlm.nih.gov/pubmed/25733352
@@ -914,6 +915,9 @@ geom_point(mapping = aes(x = displ, y = hwy))
 - [Pharmacometrics: some Shiny applications](http://webpopix.org/shiny/ShinyExamples.html)
  - [Glucose Insulin Dynamics and SGLT 1/2 inhibition](http://qsp.engr.uga.edu:3838/GluIns/GluIns1.d/)
 - [drinkR: Estimate your Blood Alcohol Concentration (BAC](https://rasmusab.shinyapps.io/drinkr/)
+- https://cran.r-project.org/web/packages/xpose4/xpose4.pdf
+- https://uupharmacometrics.github.io/xpose/articles/cheatsheet.pdf
+- http://onlinelibrary.wiley.com/doi/10.1002/jcph.899/pdf
 
 ## Clinical Trials
 
@@ -922,6 +926,7 @@ geom_point(mapping = aes(x = displ, y = hwy))
  - [medplot by Crt Ahlin & Lara Lusa to  facilitate the exploration and analysis of longitudinal data](http://shiny.mf.uni-lj.si/medplot/)
   - [Application to visualize meta-analysis as physical weights on scales](https://chjackson.shinyapps.io/MetaAnalyser/)
   - [BioPET is a tool for helping investigators evaluate whether a biomarker or risk model is useful for prognostic enrichment of a clinical trial](https://jhroth.shinyapps.io/WebApp/)
+  - http://www.mbswonline.com/upload/presentation_5-23-2016-13-1-14.mbsw%20slides%20man%202016%20final.pdf
   
 ## Clinical Trials Cont.
   
@@ -937,12 +942,24 @@ geom_point(mapping = aes(x = displ, y = hwy))
  
  
 ## Genomics & Proteomics
-
   - [Human eyeIntegration web app](https://eyeintegration.nei.nih.gov/)
   - [Gene Expression Biclustering - Bryan Lewis](https://jjallaire.shinyapps.io/shiny-biclust/)
   - [Visualize and explore an entire genome](https://gallery.shinyapps.io/genome_browser/)
   - [Use phenotypes and genotypes to detect novel disease gene candidates ](http://omimexplorer.research.bcm.edu:3838/omim_explorer/)
   - [Visualisation of proteomics data using R and Bioconductor](https://www.bioconductor.org/packages/release/data/experiment/vignettes/RforProteomics/inst/doc/RProtVis.html)
+  - https://bioconductor.org/packages/release/bioc/html/CausalR.html
+
+## Genomics & Proteomics Cont.
+- https://cran.r-project.org/web/packages/NanoStringNorm/vignettes/NanoStringNorm_Introduction.pdf
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5426587/
+- https://www.user2017.brussels/uploads/Helen_Lindsay_useR.pdf
+- http://52.90.192.24:3838/rnaseq2g/
+- https://markeybiostattools.uky.edu/shiny/shinyNano/
+- http://rpubs.com/linda_szabo/1352
+- https://github.com/dsurujon/shiny
+- https://artyomovlab.wustl.edu/shiny/gam/
+- https://bioconductor.org/packages/devel/bioc/vignettes/debrowser/inst/doc/DEBrowser.html
+- https://www.biorxiv.org/content/early/2017/04/07/122747
 
 ## Immunogenicity & Adverse Advents
 
@@ -1011,6 +1028,7 @@ for control and elimination of London Declaration NTDs](https://erasmusmcmgz.shi
  - [Ebola Model](https://gallery.shinyapps.io/Ebola-Dynamic/)
  - [CDC Data Visualization](https://gallery.shinyapps.io/CDCPlot/)
  - [Using R for Biomedical Statistics booklet](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.io/en/latest/)
+ - http://apps.chiragjpgroup.org/repoDB/
 
 ## Other
  
